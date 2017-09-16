@@ -1,0 +1,11 @@
+$backgroundColor: royalblue;
+
+.content {
+    color: $backgroundColor;
+    font-size: 2em;
+}
+
+.img {
+    background-image: url('./img/cookie.jpg');
+    position: relative;
+}
